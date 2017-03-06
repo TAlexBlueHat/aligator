@@ -1,0 +1,19 @@
+{
+    "name": "aligator/aligator",
+    "description": "A minimilize PHP framework for Web Predator",
+    "type": "project",
+    "license": "MIT Licence",
+    "authors": [
+        {
+            "name": "Sph1nxDev",
+            "email": "alextondoh@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+          "Aligator\\": "cockpit"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
